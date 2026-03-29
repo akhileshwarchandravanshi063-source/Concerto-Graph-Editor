@@ -86,7 +86,7 @@ function App() {
       style={{
         width: "100vw",
         height: "100vh",
-        background: "#222222",
+        background: "#0b1220",
       }}
     >
       <div
@@ -95,8 +95,8 @@ function App() {
           zIndex: 10,
           top: 10,
           left: 10,
-          background: "rgba(15, 23, 42, 0.88)", // dark slate glass
-          color: "white",
+          background: "#222222", // dark slate glass
+          color: "#e5e7eb",
           padding: 10,
           borderRadius: 8,
           display: "flex",
@@ -134,7 +134,7 @@ function App() {
         onNodeClick={onNodeClick}
         fitView
       >
-        <Background variant="dots" gap={24} size={2} color="#374151" />
+        <Background variant="dots" gap={24} size={1} color="#222222" />
         <Controls />
       </ReactFlow>
     </div>
