@@ -33,13 +33,6 @@ This project aims to simplify the process by providing a visual interface where 
 * JavaScript
 * HTML/CSS
 
-## 📸 Demo / Screenshots
-
-(Add your screenshot here)
-
-Example:
-![Graph Editor UI](./screenshots/demo.png)
-
 ## ⚙️ Installation & Setup
 
 ```bash
